@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name:  Mt7630a-4G
+name:  Mt7620a-4G
 
 on:
   repository_dispatch:
